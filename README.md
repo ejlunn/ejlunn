@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 👨‍🎓I'm currently studying Msc Data Science!
+- 💻I'm new to coding and hoping to learn lots!
+- 🏉I currelty work as a Sports Scientist
+  
 <!--
 **ejlunn/ejlunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
